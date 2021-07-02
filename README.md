@@ -1,24 +1,19 @@
-![](https://github.com/ainultech/ainultech/raw/main/wave.gif)
-<h1>
-  Hi there ― <br> 
-  my name is Ahmad, <br> 
-  designer, polyglot developer, <br> 
-  and maker based in Pekanbaru.
-</h1>
+<h1 align="center">👋 Hello world 👋</h1>
 
-<h3>
-  I occasionally contribute to open <br>
-  source projects <a href="https://github.com/ainultech?tab=repositories">here on GitHub</a>. ❤️
-</h3>
+### 🤔 Few lines about me 🧐 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainultech&langs_count=8&theme=dark&layout=compact" /></a>
 
-<h3>
-  You can also follow me on <a href="https://twitter.com/ainultech">Twitter</a>,
-  <br>
-  or check out my latest works on 
-  <br>
-  <a href="https://ainul.tech">My Website</a> and <a href="https://codepen.io/ainultech">Codepen</a>.
-</h3>
+💻 Fullstack web developer
 
-<h3>
-  ― See ya! 👋
-</h3>
+🎹 Keyboard player, music composer and producer
+
+🎧 Chill music lover
+
+🔭 Currently working on [my home at internet][home]
+
+### 💻 Stats
+
+|                                                   Github Streak                                                   |                                                                                             Github Stats                                                                                              |
+| :---------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ainultech&theme=dark&hide_border=true)](#) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ainultech&hide=stars&count_private=true&line_height=30&show_icons=true&theme=dark&include_all_commits=true&hide_border=true)](#) |
+
+[home]: https://ainul.tech
